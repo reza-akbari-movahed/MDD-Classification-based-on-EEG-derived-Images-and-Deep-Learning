@@ -8,3 +8,8 @@ The codes for image generation from EEG signals are implemented in MATLAB 2019b,
 The preprocessed EEG signals are saved into a MAT file and can be downloaded using the below link. The label 1 refers to HC samples and the label -1 refers to MDD cases. <br />
 https://drive.google.com/file/d/1A3Xyon397om1t5WxINzZzGMBjiaRd0d0/view?usp=sharing
 ## How to run 
+1. Download the dataset using the provided link and copy it to the main directory of the project.
+2. Go to the Image Generation Folder and run Data_Generator.m.
+   - When running, you should enter the direction which contains the MAT-file format dataset. For example, if the file is located in F:\\myfolder, you should enter "F:\\myfolder".
+   - Note that the MAT-file save format should be set to -v7.3 in the settings of MATLAB (You can set this using the preferences menu in MATLAB).  
+4. Run Python
