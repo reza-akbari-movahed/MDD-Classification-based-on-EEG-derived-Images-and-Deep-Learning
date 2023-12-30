@@ -18,3 +18,5 @@ https://drive.google.com/file/d/1A3Xyon397om1t5WxINzZzGMBjiaRd0d0/view?usp=shari
    - Final_Code_Cross_Validation_With_Val.py
    - Final_Code_Cross_Validation_Without_Val.py
    - Final_Code_Random_Splitting.py
+## Python Requirments 
+The training and evaluating part of the proposed framework is implemented on Python 3.7. The required packages and their versions for running the codes in Python are listed in Python_requirments.txt file.
