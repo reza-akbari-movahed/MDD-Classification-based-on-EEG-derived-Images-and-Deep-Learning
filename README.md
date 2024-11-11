@@ -23,4 +23,5 @@ The training and evaluating part of the proposed framework is implemented on Pyt
 
 ```markdown
 conda create --name my_env python=3.7
+conda activate my_env
 pip install -r requirments.txt
