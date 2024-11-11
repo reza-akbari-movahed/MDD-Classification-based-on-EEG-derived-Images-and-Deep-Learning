@@ -22,6 +22,5 @@ https://drive.google.com/file/d/1A3Xyon397om1t5WxINzZzGMBjiaRd0d0/view?usp=shari
 The training and evaluating part of the proposed framework is implemented on Python 3.7. The required packages and their versions for running the codes in Python are listed in requirements.txt file. In order to create a conda enviornemnt with Python 3.7 and install the required packages, you can use the below codes. 
 
 ```markdown
-```bash
 conda create --name my_env python=3.7
 pip install -r requirments.txt
