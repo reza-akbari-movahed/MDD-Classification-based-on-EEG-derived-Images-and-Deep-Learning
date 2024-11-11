@@ -25,3 +25,17 @@ The training and evaluating part of the proposed framework is implemented on Pyt
 conda create --name my_env python=3.7
 conda activate my_env
 pip install -r requirments.txt
+```
+
+## If you use this repository, please cite it as follows:
+
+```bibtex
+@article{afzali2023automated,
+  title     = {Automated major depressive disorder diagnosis using a dual-input deep learning model and image generation from EEG signals},
+  author    = {Afzali, Ahmad and Khaleghi, Ali and Hatef, Boshra and Akbari Movahed, Reza and Pirzad Jahromi, Gila},
+  journal   = {Waves in Random and Complex Media},
+  pages     = {1--16},
+  year      = {2023},
+  publisher = {Taylor & Francis}
+}
+
